@@ -1,0 +1,2 @@
+# Chỉ cần cho tab Kiểm thử, không dùng để triển khai thuật toán chính.
+pycryptodome>=3.20,<4
